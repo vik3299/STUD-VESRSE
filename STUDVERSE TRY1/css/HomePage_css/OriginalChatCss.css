@@ -1,0 +1,194 @@
+body {
+
+    font-family: 'Raleway', sans-serif;
+    background: #FFF;
+}
+
+.comments-main {
+    background: #FFF;
+}
+
+
+.comment time,
+.comment:hover time,
+.icon-rocknroll,
+.like-count {
+    -webkit-transition: .25s opacity linear;
+    transition: .25s opacity linear;
+}
+
+.comments-main ul li {
+    list-style: none;
+}
+.sender{
+    color: white;
+}
+
+/* styling for message back ground here */
+.comments .comment {
+    padding: 5x 10px;
+    margin-left: 10px;
+    background:#8099c6;
+}
+
+.comments .comment:hover time {
+    opacity: 1;
+}
+
+.comments .user-img img {
+    width: 50px;
+    height: 50px;
+}
+
+.comments .comment h4 {
+    font-family: 'Noto Sans', sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    padding-top: 6px;
+    /* margin-top: 50px; */
+}
+.query-section{
+    margin-bottom: 0;
+}
+.comments .comment h4 a {
+    color: whitesmoke;
+    padding-top: 5px;
+    font-family: 'Noto Sans', sans-serif;
+    /* margin-top: 20px; */
+    text-decoration: none;
+}
+
+.comments .comment .icon-rocknroll {
+    color: #545454;
+    font-size: .85rem;
+}
+
+.comments .comment .icon-rocknroll:hover {
+    opacity: .5;
+}
+
+.comments .comment time,
+.comments .comment .like-count,
+.comments .comment .icon-rocknroll {
+    font-size: .75rem;
+    opacity: 0;
+}
+
+.comments .comment time,
+.comments .comment .like-count {
+    font-weight: 300;
+}
+
+.comments .comment p {
+    font-size: 13px;
+}
+
+.comments .comment p .reply {
+    color: #BFBFA8;
+    cursor: pointer;
+}
+
+.comments .comment .active {
+    opacity: 1;
+}
+
+.icon-rocknroll {
+    background: none;
+    outline: none;
+    cursor: pointer;
+    margin: 0 .125rem 0 0;
+}
+
+.comments .comment:hover .icon-rocknroll,
+.comments .comment:hover .like-count {
+    opacity: 1;
+}
+
+.comment-box-main {
+    background: #323e54;
+    color: black;
+    /* text-align: center; */
+}
+
+
+@media (min-width: 1200px)
+.container {
+    max-width: 1140px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .comments .comment h4 {
+        font-size: 12px;
+    }
+
+    .comments .comment p {
+        font-size: 11px;
+    }
+
+    .comment-box-main .send-btn button {
+        margin-left: 5px;
+    }
+
+}
+
+.chattingWindow {
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+}
+
+.ChatWin {
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+}
+
+.BackButton {
+    width: 50px;
+    height: 50px;
+    padding-left: 3px;
+}
+
+
+.sendButton {
+    width: 30px;
+    height: 30px;
+    padding-bottom: 2px;
+    margin-left: 10px;
+    background-color: transparent;
+    border: transparent;
+}
+
+.AttachButton {
+    width: 30px;
+    height: 30px;
+    padding-bottom: 2px;
+    margin-left: 1px;
+    background-color: transparent;
+    border: transparent;
+    float: left;
+}
+
+.ChatTitle {
+    padding-top: 8px;
+    /* padding-left: 60px; */
+    /* margin-top: 5px; */
+    color: white;
+    text-align: center;
+}
+
+.OpenButton {
+    background-color: transparent;
+    color: white;
+    border: none;
+    transition-duration: 0.3s;
+    cursor: pointer;
+    margin: 5px 10px;
+}
+
+.OpenButton:hover {
+    /* background-color: green; */
+    color: white;
+    /* border: 2px solid white; */
+}

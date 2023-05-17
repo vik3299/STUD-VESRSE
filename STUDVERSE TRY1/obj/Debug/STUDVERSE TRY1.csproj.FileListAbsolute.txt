@@ -1,0 +1,296 @@
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.dll.config
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.pdb
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.exe
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.exe.config
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.rsp
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.exe
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.exe.config
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.rsp
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.AppContext.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Collections.Immutable.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Console.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Globalization.Calendars.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.Compression.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.FileSystem.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Net.Http.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Net.Sockets.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Reflection.Metadata.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.ValueTuple.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XPath.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.exe
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.exe.config
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.rsp
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\VBCSCompiler.exe
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\VBCSCompiler.exe.config
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Antlr3.Runtime.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\AspNet.ScriptManager.bootstrap.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\AspNet.ScriptManager.jQuery.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.ScriptManager.WebForms.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.Web.Infrastructure.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Newtonsoft.Json.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\System.Web.Optimization.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\WebGrease.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\System.Web.Optimization.xml
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Newtonsoft.Json.xml
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Antlr3.Runtime.pdb
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.AssemblyReference.cache
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.CoreCompileInputs.cache
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.CopyComplete
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.dll
+E:\rakesh sir\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.pdb
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.dll.config
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.pdb
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.exe
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.exe.config
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.rsp
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.exe
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.exe.config
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.rsp
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Console.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.exe
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.exe.config
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.rsp
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Antlr3.Runtime.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Newtonsoft.Json.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\System.Web.Optimization.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\WebGrease.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\System.Web.Optimization.xml
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Newtonsoft.Json.xml
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.CopyComplete
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.dll
+C:\Users\HP\Downloads\STUDVERSE TRY1\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.pdb
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.dll.config
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.pdb
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.exe
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.exe.config
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.rsp
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.exe
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.exe.config
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.rsp
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.AppContext.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Console.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.Compression.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Net.Http.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.ValueTuple.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.exe
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.exe.config
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.rsp
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\VBCSCompiler.exe
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Antlr3.Runtime.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Newtonsoft.Json.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\System.Web.Optimization.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\WebGrease.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\System.Web.Optimization.xml
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Newtonsoft.Json.xml
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Antlr3.Runtime.pdb
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.AssemblyReference.cache
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.CopyComplete
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.dll
+C:\Users\ABC\Desktop\sva\STUDVERSE TRY1 update 10-2-23\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.pdb
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.dll.config
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\STUDVERSE TRY1.pdb
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.exe.config
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Console.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.Compression.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Net.Http.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.ValueTuple.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Antlr3.Runtime.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\System.Web.Optimization.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\WebGrease.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\System.Web.Optimization.xml
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Antlr3.Runtime.pdb
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.csproj.CopyComplete
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.dll
+C:\Users\HP\Desktop\STUDVERSE TRY1\STUDVERSE TRY1\obj\Debug\STUDVERSE TRY1.pdb
